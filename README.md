@@ -106,6 +106,8 @@ The dataset contains quiz attempt information of students.
 
 # ✅ Output 7: Box Plot – Score vs Attempt Category
 
+<img width="773" height="537" alt="image" src="https://github.com/user-attachments/assets/76c16d18-0d9b-4baa-8adc-740b675fa7cd" />
+
 
 # 🔍 Analysis Performed -
 
@@ -160,6 +162,7 @@ Student Name: Anjali yadav
 Course: BTECH CSE AI 
 
 College: RISU Bhilai
+
 
 
 
