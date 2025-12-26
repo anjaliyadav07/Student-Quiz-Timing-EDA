@@ -94,6 +94,10 @@ The dataset contains quiz attempt information of students.
 
 # ✅ Output 4: Submission Category Count Plot
 
+<img width="815" height="561" alt="image" src="https://github.com/user-attachments/assets/7af25a38-4fb1-455d-a62b-c59bb0de7207" />
+
+# ✅ Output 5: Scatter Plot – Attempt Timing vs Score
+
 # 🔍 Analysis Performed -
 
 - Time difference calculation between scheduled and attempt time
@@ -147,6 +151,7 @@ Student Name: Anjali yadav
 Course: BTECH CSE AI 
 
 College: RISU Bhilai
+
 
 
 
