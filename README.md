@@ -34,16 +34,21 @@ project/
 └── README.md              # Project documentation
 ```
 
-# 📊 Dataset Description -
+# 📊 Dataset Description
 
 The dataset contains quiz attempt information of students.
 
-   Column Name	       Description
-1. student_id	      # Unique student identifier
-3. quiz_id	          # Quiz identifier
-4. scheduled_time	  # Official quiz start time
-5. attempt_time	      # Time when student attempted the quiz
-6. score	          # Marks obtained by the student
+### 📑 Column Details
+
+| Column Name       | Description                                      |
+|-------------------|--------------------------------------------------|
+| `student_id`      | Unique student identifier                        |
+| `quiz_id`         | Quiz identifier                                  |
+| `scheduled_time`  | Official quiz start time                         |
+| `attempt_time`    | Time when student attempted the quiz             |
+| `score`           | Marks obtained by the student                    |
+
+### 
 
 - Dataset is realistic and manually created
 
@@ -104,6 +109,7 @@ Student Name: Anjali yadav
 Course: BTECH CSE AI 
 
 College: RISU Bhilai
+
 
 
 
