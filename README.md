@@ -25,14 +25,14 @@ The analysis is performed using Python, focusing on time difference calculations
 
 3. Matplotlib – data visualization
 
-## 📁 Project Structure
-'''md 
+## 📁 Project Structure 
 ```text
 project/
 │
 ├── quiz_attempts.csv      # Dataset 
 ├── project.ipynb          # Python notebook (EDA code)
 └── README.md              # Project documentation
+```
 
 # 📊 Dataset Description -
 
@@ -104,6 +104,7 @@ Student Name: Anjali yadav
 Course: BTECH CSE AI 
 
 College: RISU Bhilai
+
 
 
 
