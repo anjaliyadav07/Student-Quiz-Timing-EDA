@@ -56,6 +56,44 @@ The dataset contains quiz attempt information of students.
 
 - Includes early, on-time, late attempts and some failures
 
+# 📊 Project Outputs -
+
+# ✅ Output 1: Dataset Preview
+### 📄 Dataset Preview
+
+| student_id | quiz_id | scheduled_time      | attempt_time        | score |
+|------------|---------|---------------------|---------------------|-------|
+| S001       | QZ401   | 2025-12-10 10:00    | 2025-12-10 09:15    | 90    |
+| S002       | QZ401   | 2025-12-10 10:00    | 2025-12-10 09:25    | 88    |
+| S003       | QZ401   | 2025-12-10 10:00    | 2025-12-10 09:35    | 85    |
+| S004       | QZ401   | 2025-12-10 10:00    | 2025-12-10 09:45    | 82    |
+| S005       | QZ401   | 2025-12-10 10:00    | 2025-12-10 09:50    | 80    |
+
+# ✅ Output 2: Submission Category Counts
+### 📊 Attempt Category Count
+
+| Attempt Category | Count |
+|------------------|-------|
+| Late             | 15    |
+| Early            | 13    |
+| On Time          | 2     |
+
+# ✅ Output 3: Score Statistics
+### 📈 Score Statistics
+
+| Statistic | Value |
+|----------|-------|
+| Count    | 30.00 |
+| Mean     | 70.83 |
+| Std Dev  | 14.49 |
+| Min      | 36.00 |
+| 25%      | 65.25 |
+| Median   | 73.50 |
+| 75%      | 80.75 |
+| Max      | 90.00 |
+
+# ✅ Output 4: Submission Category Count Plot
+
 # 🔍 Analysis Performed -
 
 - Time difference calculation between scheduled and attempt time
@@ -109,6 +147,7 @@ Student Name: Anjali yadav
 Course: BTECH CSE AI 
 
 College: RISU Bhilai
+
 
 
 
