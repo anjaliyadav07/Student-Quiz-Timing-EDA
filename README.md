@@ -30,7 +30,7 @@ The analysis is performed using Python, focusing on time difference calculations
 │
 ├── quiz_attempts.csv        # Dataset (December 2025)
 ├── project.ipynb            # Python notebook (EDA code)
-└── README.md                # Project documentation'''
+└── README.md                # Project documentation
 # 📊 Dataset Description -
 
 The dataset contains quiz attempt information of students.
@@ -101,3 +101,4 @@ Student Name: Anjali yadav
 Course: BTECH CSE AI 
 
 College: RISU Bhilai
+
